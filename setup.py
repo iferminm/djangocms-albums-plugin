@@ -13,6 +13,6 @@ setup(
     license='GPL 3.0',
     description='Adds photogallery functionality to your djangocms'
                 + 'website',
-    long_description=open('README.txt').read(),
+    long_description=open('README.md').read(),
     zip_safe=False,
 )
