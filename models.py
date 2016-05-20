@@ -80,7 +80,7 @@ def process_zipfile(uploaded_album):
                     generate_thumbnail(img)
         zip.close()
         uploaded_album.delete()
-        # TODO: borrar el archivo fisico
+        # TODO: delete the actual archiver
 
 
 class PhotoAlbum(models.Model):
