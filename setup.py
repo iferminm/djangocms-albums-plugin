@@ -12,7 +12,7 @@ setup(
     url='https://github.com/iferminm/djangocms-albums-plugin',
     license='GPL 3.0',
     description='Adds photogallery functionality to your djangocms'
-                + 'website',
+                + ' website',
     long_description=open('README.md').read(),
     zip_safe=False,
 )
