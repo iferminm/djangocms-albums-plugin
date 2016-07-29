@@ -6,7 +6,7 @@ setup(
     name='djangocms-albums-plugin',
     version='0.0.1',
     author=u'Israel Fermín Montilla',
-    author_email='ferminster@gmail.com',
+    author_email='iferminm@gmail.com',
     packages=find_packages(),
     install_requires=['Pillow==3.0.0'],
     url='https://github.com/iferminm/djangocms-albums-plugin',
