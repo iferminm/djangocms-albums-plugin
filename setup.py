@@ -4,7 +4,7 @@ from setuptools import find_packages
 
 setup(
     name='djangocms-albums-plugin',
-    version='0.0.2',
+    version='0.0.3',
     author=u'Israel Fermín Montilla',
     author_email='iferminm@gmail.com',
     packages=find_packages(),
