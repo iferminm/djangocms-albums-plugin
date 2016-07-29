@@ -4,7 +4,7 @@ from setuptools import find_packages
 
 setup(
     name='djangocms-albums-plugin',
-    version='0.0.1',
+    version='0.0.2,
     author=u'Israel Fermín Montilla',
     author_email='iferminm@gmail.com',
     packages=find_packages(),
@@ -13,6 +13,7 @@ setup(
     license='GPL 3.0',
     description='Adds photogallery functionality to your djangocms'
                 + ' website',
-    long_description=open('README.md').read(),
+    long_description='Adds photogallery and albums functionality to your '
+                      + 'djangocms powered website',
     zip_safe=False,
 )
