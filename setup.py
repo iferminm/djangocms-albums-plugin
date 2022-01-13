@@ -8,7 +8,7 @@ setup(
     author=u'Israel Fermín Montilla',
     author_email='iferminm@gmail.com',
     packages=find_packages(),
-    install_requires=['Pillow==3.0.0'],
+    install_requires=['Pillow==9.0.0'],
     url='https://github.com/iferminm/djangocms-albums-plugin',
     license='GPL 3.0',
     description='Adds photogallery functionality to your djangocms'
